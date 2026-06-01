@@ -80,11 +80,11 @@
 
 ### Issue
 
-* Sidebar tidak muncul pada tampilan Mobile sehingga beberapa menu menjadi sulit diakses
+* Sidebar tidak muncul pada tampilan Mobile 
 
 ### Suggestion
 
-* Tambahkan menu sidebar versi Mobile agar fitur tetap dapat diakses pada layar kecil
+* Tambahkan menu sidebar versi Mobile
 
 ---
 
