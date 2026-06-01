@@ -1,4 +1,4 @@
-# 🎨 Laporan Evaluasi UI/UX
+# 🎨 Reporting UI/UX
 
 ## 📲Halaman Home, Login, Register
 
