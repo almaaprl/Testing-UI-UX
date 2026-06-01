@@ -10,10 +10,6 @@
 
 ✅ aman
 
-### Catatan
-
-* Tampilan tetap rapi dan konsisten pada Desktop, Tablet, maupun Mobile
-
 ---
 
 ## 2. Typography, Proportion & Precision
