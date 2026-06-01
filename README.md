@@ -1,6 +1,6 @@
 # 🎨 Reporting UI/UX
 
-## 📲Halaman Home, Login, Register
+## 📲Page: Home, Login, Register
 
 ---
 
